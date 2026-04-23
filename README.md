@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SHIVAM NAGI</h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img width="168" height="299" alt="image" src="https://github.com/user-attachments/assets/62c95a0f-d37a-4f37-9a49-1dff97d547f4" />
 
 - 📫 How to reach me **theshivamnagi@gmail.com**
 
