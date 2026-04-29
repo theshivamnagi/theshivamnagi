@@ -7,8 +7,9 @@
 <h1 align="center">Hey, I'm Shivam Nagi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=600&size=22&pause=500&speed=80&color=00B4D8&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Product+Thinker;Brand+%26+Visual+Designer;Frontend+Tinkerer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=600&size=22&pause=500&speed=80&color=F75C7E&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;Product+Manager;Brand+%26+Visual+Designer;Frontend+Tinkerer;Vibe+Coder;Product+Thinker" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   Based in Punjab, India 🇮🇳 &nbsp;·&nbsp; Open to Collaborations &nbsp;·&nbsp; Designing with Intention
@@ -47,11 +48,9 @@ When I'm not designing, I'm exploring frontend development, studying user behavi
 
 | Figma | HTML5 | CSS3 | JavaScript | Illustrator | Photoshop | Git | GitHub | VS Code |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/> |
+| <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/> |
 
 </p>
-
-**Also use:** Metabase (SQL) &nbsp;·&nbsp; MS Clarity &nbsp;·&nbsp; Trello &nbsp;·&nbsp; Notion &nbsp;·&nbsp; Chatwoot
 
 <br/>
 
@@ -60,10 +59,9 @@ When I'm not designing, I'm exploring frontend development, studying user behavi
 ### 💡 Interests
 
 - 🔍 UX Research & Usability
-- 🎮 Gamification & Engagement Design
 - 🌐 Frontend Development & Design Systems
 - 📦 SaaS Product Design
-- 📈 Influencer Marketing & Creator Economy
+- 🗂️ Product Management
 
 <br/>
 
@@ -73,7 +71,7 @@ When I'm not designing, I'm exploring frontend development, studying user behavi
 
 <p align="left">
   <a href="mailto:theshivamnagi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-theshivamnagi@gmail.com-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-theshivamnagi@gmail.com-F75C7E?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -81,6 +79,3 @@ When I'm not designing, I'm exploring frontend development, studying user behavi
 
 ---
 
-<p align="center">
-  <sub>✦ Designed with intention. Built with curiosity. ✦</sub>
-</p>
