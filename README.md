@@ -1,11 +1,86 @@
-<h1 align="center">Hi 👋, I'm SHIVAM NAGI</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding gif"/>
+</div>
 
+<br/>
 
-- 📫 How to reach me **theshivamnagi@gmail.com**
+<h1 align="center">Hey, I'm Shivam Nagi 👋</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=600&size=22&pause=500&speed=80&color=00B4D8&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Product+Thinker;Brand+%26+Visual+Designer;Frontend+Tinkerer" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="center">
+  Based in Punjab, India 🇮🇳 &nbsp;·&nbsp; Open to Collaborations &nbsp;·&nbsp; Designing with Intention
+</p>
+
+<br/>
+
+---
+
+### 🙋‍♂️ Who I Am
+
+I'm a designer who thinks like a product person. I bridge the gap between how things **look**, how they **work**, and how users **feel** using them. I enjoy working at the intersection of UX, brand, and product — turning complex problems into clean, intuitive experiences.
+
+When I'm not designing, I'm exploring frontend development, studying user behaviour, or obsessing over good typography.
+
+<br/>
+
+---
+
+### 💼 What I Do
+
+- 🎨 **UI/UX Design** — User research, wireframing, prototyping, and high-fidelity design in Figma
+- 🏷️ **Brand & Visual Identity** — Logo systems, design tokens, brand guidelines, and marketing creatives
+- 📐 **Product Thinking** — User journey mapping, feature prioritisation, UX audits, and cross-functional collaboration
+- 💻 **Frontend Development** — Translating designs into code using HTML, CSS & JavaScript
+- 📊 **Data-Informed Design** — Using tools like MS Clarity and Metabase to understand user behaviour and inform design decisions
+- 📣 **Marketing Design** — Newsletters, presentations, pitch decks, and social media creatives
+
+<br/>
+
+---
+
+### 🛠️ Tools & Skills
+
+<p align="center">
+
+| Figma | HTML5 | CSS3 | JavaScript | Illustrator | Photoshop | Git | GitHub | VS Code |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/> |
+
+</p>
+
+**Also use:** Metabase (SQL) &nbsp;·&nbsp; MS Clarity &nbsp;·&nbsp; Trello &nbsp;·&nbsp; Notion &nbsp;·&nbsp; Chatwoot
+
+<br/>
+
+---
+
+### 💡 Interests
+
+- 🔍 UX Research & Usability
+- 🎮 Gamification & Engagement Design
+- 🌐 Frontend Development & Design Systems
+- 📦 SaaS Product Design
+- 📈 Influencer Marketing & Creator Economy
+
+<br/>
+
+---
+
+### 📫 Get In Touch
+
+<p align="left">
+  <a href="mailto:theshivamnagi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-theshivamnagi@gmail.com-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+---
+
+<p align="center">
+  <sub>✦ Designed with intention. Built with curiosity. ✦</sub>
+</p>
